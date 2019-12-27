@@ -1,0 +1,9 @@
+[submodule "balena-sound"]
+	path = balena-sound
+	url = https://github.com/balena-io-projects/balena-sound/
+[submodule "wifi-connect"]
+	path = wifi-connect
+	url = https://github.com/balena-io/wifi-connect
+[submodule "simple-server-node"]
+	path = simple-server-node
+	url = https://github.com/balena-io-projects/simple-server-node
